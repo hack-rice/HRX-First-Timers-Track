@@ -14,7 +14,7 @@ In this track, you'll create a website related to (raising awareness of) social 
 
 You'll need a basic text editor - We recommend [VS Code](https://code.visualstudio.com) or any other text editor with a live server extension. 
 
-## The Basics 
+## The Basics<sup>1</sup>
 
 All websites, at their most basic, are just a bunch of files that are stored on a computer called a server. This server is connected to the internet. You can then load that website through a browser (like Chrome, Firefox, or Safari) on your computer or your phone.
 
@@ -27,7 +27,7 @@ CSS, or Cascading Style Sheets, lets you style that HTML content so it looks nic
 ### JavaScript
 JavaScript is a programming language that was designed to run in the browser. Using JavaScript, you can make your website dynamic, meaning it will respond to different inputs from the user, or other sources. For example, you can build a “Back to Top” button that when the user clicks it, they’ll scroll back up to the top of the page. Or you can build a weather widget that will display today’s weather based on the user’s location in the world.
 
-## Vue.js
+## Vue.js<sup>2</sup>
 
 While you can definitely create a stunning website using only HTML, CSS, and JavaScript. We wanted to make things interesting by challenging you to learn a web development framework, Vue.js. Vue.js is a progressive JavaScript framework designed for building frontend user interfaces.
 
@@ -52,6 +52,20 @@ The style.css file is left empty on purpose. We want you to use your imagination
 
 ## Loading Your Website
 
-
+There are ways to load your website. 
+* Open the index.html file with Google Chrome or another browser of choice. 
+* Use the live server extension of VSCode or another text editor of choice. 
 
 ## Resources 
+* [Vue.js Tutorial] https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa
+* [HTML Tutorial](https://html.com/): This tutorial covers the basics of HTML. 
+* [CSS Tutorial](https://html.com/css/): This tutorial covers the basics of CSS.
+* [Javascript Tutorial](https://www.htmldog.com/guides/javascript/): This simple and straightforward tutorial covers the basics of Javascript. Start by reading this [article](https://www.htmldog.com/guides/javascript/beginner/makingstuffhappen/) and then continue reading [here](https://www.htmldog.com/guides/javascript/intermediate/thedom/).
+* [The Modern Javascript Tutorial](https://javascript.info/): This in-depth tutorial thoroughly covers Javascript.
+
+## Footnotes
+
+<sup>1</sup>: https://coder-coder.com/learn-web-development/#:~:text=Steps%20to%20learn%20web%20development%20basics%3A&text=Basics%3A%20HTML%2C%20CSS%2C%20and,Servers%20and%20databases%2C%20programming%20language
+
+<sup>2</sup>: https://skillcrush.com/blog/what-is-a-javascript-framework/
+ 
