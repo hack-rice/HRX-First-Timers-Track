@@ -57,7 +57,7 @@ There are ways to load your website.
 * Use the live server extension of VSCode or another text editor of choice. 
 
 ## Resources 
-* [Vue.js Tutorial] https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa
+* [Vue.js Tutorial](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa): This is a very thorough tutorial on Vue.js from "Hello woulrd" to deploying your website using Firebase.
 * [HTML Tutorial](https://html.com/): This tutorial covers the basics of HTML. 
 * [CSS Tutorial](https://html.com/css/): This tutorial covers the basics of CSS.
 * [Javascript Tutorial](https://www.htmldog.com/guides/javascript/): This simple and straightforward tutorial covers the basics of Javascript. Start by reading this [article](https://www.htmldog.com/guides/javascript/beginner/makingstuffhappen/) and then continue reading [here](https://www.htmldog.com/guides/javascript/intermediate/thedom/).
