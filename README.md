@@ -65,7 +65,7 @@ There are ways to load your website.
 
 ## Footnotes
 
-<sup>1</sup>: https://coder-coder.com/learn-web-development/#:~:text=Steps%20to%20learn%20web%20development%20basics%3A&text=Basics%3A%20HTML%2C%20CSS%2C%20and,Servers%20and%20databases%2C%20programming%20language
+[1] https://coder-coder.com/learn-web-development/#:~:text=Steps%20to%20learn%20web%20development%20basics%3A&text=Basics%3A%20HTML%2C%20CSS%2C%20and,Servers%20and%20databases%2C%20programming%20language
 
-<sup>2</sup>: https://skillcrush.com/blog/what-is-a-javascript-framework/
+[2] https://skillcrush.com/blog/what-is-a-javascript-framework/
  
