@@ -2,11 +2,11 @@
 
 ## Track Description
 
-Websites and webpages are the building blocks of the internet and currently, there exists a website for almost any entity in existence, so why don’t you create one to support social justice? In this track, your goal is to create a website/webpage related to social justice, we’ll leave the specifics of the purpose to your imagination.
+Websites and webpages are the building blocks of the internet and currently, there exists a website for almost any entity in existence, so in light of recent events, our challenge for you is to create one to support social justice! In this track, your goal is to create a website/webpage related to social justice, we’ll leave the specifics of the purpose to your desire.
 
 ## Introduction
 
-Welcome to HackRice 10! This track is intended for teams in which a majority of members have little to no experience with software development. We'll help you get started by providing instructions on how to set up your environment and providing some basic code for you to expand on. If you have attended previous hackathons, you're still welcome to use the provided code, but you won't be eligible to compete in the First Timers Track.
+Welcome to HackRice X! This track is intended for teams in which a majority of members have little to no experience with software development. We'll help you get started by providing instructions on how to set up your environment and providing some basic code for you to expand on. If you have attended previous hackathons, you're still welcome to use the provided code, but you won't be eligible to compete in the First Timers Track.
 
 In this track, you'll create a website related to (raising awareness of) social justice. You can create whatever in your opinion is going to support social justice (and racial equality). We're providing you with boiler plates, but feel free to build from scratch
 
