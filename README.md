@@ -1,4 +1,4 @@
-# HackRiceX | First Timer's Track
+# HackRice X | First Timer's Track
 
 ## Track Description
 
