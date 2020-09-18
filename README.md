@@ -6,7 +6,7 @@ Websites and webpages are the building blocks of the internet and currently, the
 
 ## Introduction
 
-Welcome to HackRice X! This track is intended for teams in which a majority of members have little to no experience with software development. We'll help you get started by providing instructions on how to set up your environment and providing some basic code for you to expand on. If you have attended previous hackathons, you're still welcome to use the provided code, but you won't be eligible to compete in the First Timers Track.
+Welcome to HackRice X! This track is intended for teams in which a majority (at least 2) of members have little to no experience with software development. We'll help you get started by providing instructions on how to set up your environment and providing some basic code for you to expand on. If you have attended previous hackathons, you're still welcome to use the provided code, but you won't be eligible to compete in the First Timers Track.
 
 In this track, you'll create a website related to (raising awareness of) social justice. You can create whatever in your opinion is going to support social justice (and racial equality). We're providing you with boiler plates, but feel free to build from scratch
 
